@@ -1,0 +1,13 @@
+.transbox {
+	height: 100%;
+	width: 100%;
+	margin-top: 20px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.9;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+    margin-bottom: 20px;
+    min-height: 900px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
